@@ -1,0 +1,35 @@
+body {
+    background-image: url("nebula.jpg");
+  }
+
+  p {color: white;}
+
+  td {color: white; }
+
+  ol {color: #00CED1; }
+
+label{color:#00CED1; }
+
+
+a {color: white;
+}
+a:hover {color: gold;}
+
+.table-heading {color: #00CED1; }
+
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 8px;
+    width: 8%;
+  }
+
+h1{
+  color: #00CED1;
+}
+h3 {
+  color: #00CED1;
+}
+
+h3:hover {color: red; }

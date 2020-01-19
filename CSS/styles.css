@@ -1,21 +1,20 @@
 body {
-    background-image: url("nebula.jpg");
+    background-image: url("CVBackground.jpg");
+
+    background-size: cover;
   }
 
-  p {color: white;}
-
-  td {color: white; }
-
-  ol {color: #00CED1; }
-
-label{color:#00CED1; }
 
 
-a {color: white;
-}
+  ol {color: #192965; }
+
+label{color:#192965; }
+
+
+
 a:hover {color: gold;}
 
-.table-heading {color: #00CED1; }
+.table-heading {color: #192965; }
 
   hr {
     border-style: none;
@@ -26,10 +25,8 @@ a:hover {color: gold;}
   }
 
 h1{
-  color: #00CED1;
+  color: #192965;
 }
 h3 {
-  color: #00CED1;
+  color: #192965;
 }
-
-h3:hover {color: red; }
